@@ -1,0 +1,22 @@
+a {
+  text-decoration: none;
+}
+
+button,
+input {
+  background-color: transparent;
+  border: none;
+  width: 100%;
+}
+
+button:hover,
+input:hover,
+a:hover {
+  background-color: aquamarine;
+}
+
+button:active,
+input:active,
+a:active {
+  background-color: hsl(160, 50%, 75%);
+}

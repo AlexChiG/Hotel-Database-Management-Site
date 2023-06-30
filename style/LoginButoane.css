@@ -1,0 +1,23 @@
+a {
+  text-decoration: none;
+}
+
+.submit {
+  background-color: transparent;
+  border: none;
+}
+
+.submit:hover,
+a:hover {
+  background-color: aquamarine;
+}
+
+.submit:active,
+a:active {
+  background-color: hsl(160, 50%, 75%);
+}
+
+form {
+    width: 15%;
+    margin-left: calc(42.5% - 30px);
+}

@@ -1,0 +1,40 @@
+table,
+th,
+td {
+  border: 1px solid black;
+}
+
+table{
+width: 90%;
+}
+
+h1,
+#main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid lightsteelblue;
+}
+
+h1 {
+  background-color: rgb(14, 116, 231);
+  color: antiquewhite;
+  margin: 0;
+  font-size:34px;
+}
+
+#main {
+  width: 75%;
+  margin: 0 0 0 12.5%;
+  flex-direction: column;
+  background-color: rgb(65, 119, 219);
+
+}
+
+.blank {
+  height: 25px;
+}
+
+.border {
+  border-top: 1px solid black;
+}

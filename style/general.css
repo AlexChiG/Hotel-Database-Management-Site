@@ -1,0 +1,14 @@
+* {
+  font: bold 14px/1.5 Georgia, serif;
+  color: darkblue;
+}
+
+::selection {
+  background: yellow;
+}
+
+body {
+  margin: 0;
+  background-color: rgb(24, 74, 131);
+}
+
