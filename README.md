@@ -63,27 +63,27 @@ departament[cod\_departament, nume\_departament];
 
 FURNIZOR:
 
-![](RackMultipart20230630-1-4gmcoy_html_56e5c6eb74fe316a.png)
+![](img/6-1.png)
 
 CLIENT:
 
-![](RackMultipart20230630-1-4gmcoy_html_fd5642eeb852c02d.png)
+![](img/6-2.png)
 
 REZERVARE:
 
-![](RackMultipart20230630-1-4gmcoy_html_2e4c49cef865ac7c.png)
+![](img/6-3.png)
 
 CAMERA:
 
-![](RackMultipart20230630-1-4gmcoy_html_64db32c96d9d9472.png)
+![](img/6-4.png)
 
 DEPARTAMENT:
 
-![](RackMultipart20230630-1-4gmcoy_html_3d25cb645b82bdcd.png)
+![](img/6-5.png)
 
 ANGAJAT:
 
-![](RackMultipart20230630-1-4gmcoy_html_700a7d57620ce049.png)
+![](img/6-6.png)
 
 # 7. Implementare
 
